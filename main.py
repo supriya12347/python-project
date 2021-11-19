@@ -1,6 +1,6 @@
 s=input()
 if s==s[::-1]:
-	print("palindrome")
+	print("pal")
 else:
 	print("not palindrome")
 	
